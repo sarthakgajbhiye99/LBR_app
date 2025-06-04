@@ -1,3 +1,3 @@
 # LBR_app
 
-### Loactin-Based Recomendation App
+### Loaction-Based Recomendation App
